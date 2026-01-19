@@ -1,12 +1,11 @@
 package ejemplo;
 
-public class Ejemplo1 {
+public class claseGonzalo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Rama de Gonzalo");
-		
+		System.out.println("Gonzalo");
 	}
 
 }
